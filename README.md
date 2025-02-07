@@ -26,6 +26,19 @@
 
 ##  📌 Descrição do Projeto - Lógica da programação e Algoritmos
 
+<br/>
+
+
+
+##  📌 Pessoa Desenvolvedora do Projeto:
+Prazer em conhecê-lo(a)! Meu nome é Lucas Oliveira, tenho 32 anos e moro na Cidade Maravilhosa, Rio de Janeiro.<br />
+Gmail : lucasrj58@gmail.com <br /> 
+Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira-rodrigues-07bb791b1/). <br />
+<br/>
+
+ <img src="assets/lukinas.jfif width=115>
+
+<br/>
 
 
 
