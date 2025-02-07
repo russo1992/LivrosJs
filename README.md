@@ -5,4 +5,12 @@
 <br/>
 
 
+## 📌 Status do Projeto:
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Andamento&color=GREEN&style=for-the-badge"/> 
+
+<br/>
+
+
+
 
