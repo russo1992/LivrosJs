@@ -17,8 +17,7 @@
 * [Status do Projeto](https://github.com/russo1992/LivrosJs#-status-do-projeto)
 * [Índice](https://github.com/russo1992/LivrosJs/tree/main#-%C3%ADndice)
 * [Descrição do Projeto - Lógica da programação e Algoritmos](https://github.com/russo1992/LivrosJs#-descri%C3%A7%C3%A3o-do-projeto---l%C3%B3gica-da-programa%C3%A7%C3%A3o-e-algoritmos)
-* [Pessoa Desenvolvedora do Projeto]()
-* [Mentores do Programa de Bolsas]()
+* [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/LivrosJs#-pessoa-desenvolvedora-do-projeto)
 * [Documentação e informação extra]()
    
    <br/>
