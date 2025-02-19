@@ -27,7 +27,13 @@
 
 <br/>
 
+ **Este projeto foi feito a partir do livro "Lógica da Programação e Algoritmos com JavaScript"**
+ <br/>
 
+ * Autor do Livro : Edécio Fernando Iepsen
+ * Editora : novatec
+
+<br/>
 
 ##  📌 Pessoa Desenvolvedora do Projeto:
 Prazer em conhecê-lo(a)! Meu nome é Lucas Oliveira, tenho 32 anos e moro na Cidade Maravilhosa, Rio de Janeiro.<br />
