@@ -35,7 +35,8 @@ Gmail : lucasrj58@gmail.com <br />
 Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira-rodrigues-07bb791b1/). <br />
 <br/>
 
- <img src="assets/lukinas.png width=115">
+(![alt text](<./assets/lukinas.png>))
+  
 
 <br/>
 
