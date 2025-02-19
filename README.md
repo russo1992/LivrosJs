@@ -24,7 +24,7 @@
 * [Como utilizar](https://github.com/russo1992/LivrosJs#-como-utilizar)
 * [Conclusão](https://github.com/russo1992/LivrosJs#-conclus%C3%A3o)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/LivrosJs#-pessoa-desenvolvedora-do-projeto)
-* [Documentação e informação extra]()
+* [Colaboradores]()
    
    <br/>
 
@@ -107,9 +107,12 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 
 <img src="./assets/lukinas.png" alt="alt text" width="115">
 
-  
-
 <br/>
+
+## Colaboradores✨
+
+ * Edécio Fernando Iepsen : Meu agradecimento sincero por está obra prima, que é este livro maravilhoso.
+ * novatec : Por ter publicado essa obra de arte . 
 
 
 
