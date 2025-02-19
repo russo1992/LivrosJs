@@ -17,6 +17,12 @@
 * [Status do Projeto](https://github.com/russo1992/LivrosJs#-status-do-projeto)
 * [Índice](https://github.com/russo1992/LivrosJs/tree/main#-%C3%ADndice)
 * [Descrição do Projeto - Lógica da programação e Algoritmos](https://github.com/russo1992/LivrosJs#-descri%C3%A7%C3%A3o-do-projeto---l%C3%B3gica-da-programa%C3%A7%C3%A3o-e-algoritmos)
+* [Sobre o livro](https://github.com/russo1992/LivrosJs#-sobre-o-livro)
+* [Objetivo do projeto](https://github.com/russo1992/LivrosJs#-objetivo-do-projeto)
+* [Tecnologias utilizadas](https://github.com/russo1992/LivrosJs#%EF%B8%8F-tecnologias-utilizadas)
+* [Estrutura do projeto](https://github.com/russo1992/LivrosJs#-estrutura-do-projeto)
+* [Como utilizar](https://github.com/russo1992/LivrosJs#-como-utilizar)
+* [Conclusão](https://github.com/russo1992/LivrosJs#-conclus%C3%A3o)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/LivrosJs#-pessoa-desenvolvedora-do-projeto)
 * [Documentação e informação extra]()
    
